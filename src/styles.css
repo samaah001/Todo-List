@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.del {
+  background: #ff0000;
+  color: #ffff;
+  border: none;
+  padding: 5px 9px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
+.todo {
+  background: #f4f4f4;
+  padding: 10px;
+  border-bottom: 1px line-through;
+}
+.is-complete {
+  text-decoration: line-through;
+}
